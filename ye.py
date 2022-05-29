@@ -51,7 +51,7 @@ optional arguments:
 
 if args.host.startswith("http://"):
 	print "[~] Insert URL with out HTTP "
-	print "Coded By Ne0-h4ck3r"
+	print "Coded By mr Sami"
 	print ""
 	sys.exit(1)
 
