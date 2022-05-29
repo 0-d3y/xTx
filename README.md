@@ -1,8 +1,8 @@
 # xTx
-![imgase]([https://d.top4top.io/p_2339g8mrq1.jpg](https://j.top4top.io/p_23396i18j1.jpg))
+![imgase](https://raw.githubusercontent.com/mr-sami-x/xTx/3e3fa4f2b172760eb496e444272cdf11cc06120c/hacked%20by%20mr%20sami.jpg)
 A quick guessing tool on the admin panel that works very quickly on Linux systems and on all other systems.
 
-![imgase](https://d.top4top.io/p_2339g8mrq1.jpg)
+![imgase](https://raw.githubusercontent.com/mr-sami-x/xTx/3e3fa4f2b172760eb496e444272cdf11cc06120c/photo_2022-05-29_02-44-06.jpg)
 
 
 
