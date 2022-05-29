@@ -15,11 +15,11 @@ A quick guessing tool on the admin panel that works very quickly on Linux system
 
 4•<code> cd xTx </code>
 
-5•<code> python ye.py </code>
+5•<code> python2 ye.py </code>
 
 
 ## How to use
-1• <code>python ye.py --host </code>  exaple.com
+1• <code>python2 ye.py --host </code>  exaple.com
 <code>--user admin  </code>
 <code>--password password.txt</code>
 
